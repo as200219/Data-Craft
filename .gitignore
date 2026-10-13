@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.vscode/
+.idea/
+.DS_Store
+.next/
+dist/
+build/
+backend/sales_data.parquet
